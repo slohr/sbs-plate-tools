@@ -13,3 +13,5 @@ It helped me when I originally developed it and maybe it'll help someone
 else.
 
 
+Formatting of the python files enforced like so:
+    autopep8 --in-place --aggressive --aggressive sbstools.py
